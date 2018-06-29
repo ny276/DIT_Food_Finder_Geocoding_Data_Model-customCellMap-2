@@ -21,8 +21,9 @@
 * Github 레파지토리 이름 : DIT_Food_Term_Project
 * Github README.md 화일에 자신이 제작한 프로젝트 설명을 잘 하기 바람, Commit log, issues 등을 잘 기록 바랍(문서화는 성적에 영향을 많이 미침)
 
-* launch screen 이미지 추가 (완료)
-* 계산기 기능 추가 (완료)
+* launch screen 이미지 추가 (완성)
+* 계산기 기능 추가 (완성)
+* 전화 걸기 기능 (미완성)
 ------------
 Source Screenshots
 ------------
