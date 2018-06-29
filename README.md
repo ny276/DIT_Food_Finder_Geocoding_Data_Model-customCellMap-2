@@ -1,11 +1,9 @@
 # DIT FoodStore Finder v0.1
 
 ----
-기말 코딩 시험 참고
-* 테이블 뷰 이해 및 작성
-* UINavigationController, UIViewController 간의 segue를 통한 데이터 전달
-* MapKit 이해 및 지오 코딩(geocoding)을 통한 지도 표시
-* 데이터 클래스 작성 및 활용 
+* launch screen 이미지 추가 (완성)
+* 계산기 기능 추가 (완성)
+* 전화 걸기 기능 (미완성)
 ---------------
 기말 프로젝트
 --------------
@@ -20,10 +18,6 @@
 * 자신의 github에 올리고 계속 commit하여 최종 결과물을 만들기(commit history 확인함) 
 * Github 레파지토리 이름 : DIT_Food_Term_Project
 * Github README.md 화일에 자신이 제작한 프로젝트 설명을 잘 하기 바람, Commit log, issues 등을 잘 기록 바랍(문서화는 성적에 영향을 많이 미침)
-
-* launch screen 이미지 추가 (완성)
-* 계산기 기능 추가 (완성)
-* 전화 걸기 기능 (미완성)
 ------------
 Source Screenshots
 ------------
